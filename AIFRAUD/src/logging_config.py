@@ -1,4 +1,4 @@
 # logging_config module
 
 def example():
-    pass
+    print('Function from logging_config.py')

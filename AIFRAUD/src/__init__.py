@@ -1,4 +1,4 @@
 # __init__ module
 
 def example():
-    pass
+    print('Function from __init__.py')

@@ -1,4 +1,4 @@
 # data_loader module
 
 def example():
-    pass
+    print('Function from data_loader.py')

@@ -1,3 +1,3 @@
 # src Folder
 
-This folder contains files related to src.
+Contains resources for the src section.

@@ -1,4 +1,4 @@
 # model_evaluator module
 
 def example():
-    pass
+    print('Function from model_evaluator.py')

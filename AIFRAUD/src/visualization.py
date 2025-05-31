@@ -1,4 +1,4 @@
 # visualization module
 
 def example():
-    pass
+    print('Function from visualization.py')

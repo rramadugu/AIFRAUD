@@ -1,4 +1,4 @@
 # utils module
 
 def example():
-    pass
+    print('Function from utils.py')

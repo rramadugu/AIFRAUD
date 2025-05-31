@@ -1,4 +1,4 @@
 # config module
 
 def example():
-    pass
+    print('Function from config.py')

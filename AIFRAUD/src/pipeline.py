@@ -1,4 +1,4 @@
 # pipeline module
 
 def example():
-    pass
+    print('Function from pipeline.py')

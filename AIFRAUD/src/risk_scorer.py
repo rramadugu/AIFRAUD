@@ -1,4 +1,4 @@
 # risk_scorer module
 
 def example():
-    pass
+    print('Function from risk_scorer.py')

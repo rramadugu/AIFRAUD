@@ -1,4 +1,4 @@
 # fraud_detector module
 
 def example():
-    pass
+    print('Function from fraud_detector.py')

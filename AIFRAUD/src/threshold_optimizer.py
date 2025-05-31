@@ -1,4 +1,4 @@
 # threshold_optimizer module
 
 def example():
-    pass
+    print('Function from threshold_optimizer.py')

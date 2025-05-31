@@ -1,4 +1,4 @@
 # model_trainer module
 
 def example():
-    pass
+    print('Function from model_trainer.py')

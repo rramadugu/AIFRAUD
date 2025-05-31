@@ -1,4 +1,4 @@
 # alert_system module
 
 def example():
-    pass
+    print('Function from alert_system.py')
