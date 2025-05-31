@@ -1,3 +1,3 @@
-# AIFRAUD
+# AIFRAUD - AI-Powered Fraud Detection in Fintech
 
-This repository contains an AI-based fraud detection pipeline.
+This repository contains data, models, source code, and notebooks.
