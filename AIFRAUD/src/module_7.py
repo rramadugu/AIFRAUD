@@ -1,4 +1,13 @@
-# module_7 module
+"""
+Applies normalization and preprocessing to data.
+"""
+from sklearn.preprocessing import MinMaxScaler
 
-def module_7():
-    print('module_7 function')
+def normalize_amounts(X):
+    scaler = MinMaxScaler()
+    return scaler.fit_transform(X)
+
+def standardize_features(X):
+    from sklearn.preprocessing import StandardScaler
+    scaler = StandardScaler()
+    return scaler.fit_transform(X)
