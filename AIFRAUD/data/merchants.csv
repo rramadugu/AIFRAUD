@@ -1,3 +1,6 @@
-id,value
-1,100
-2,200
+merchant_id,merchant_name
+1,StoreA
+2,StoreB
+3,StoreC
+4,StoreD
+5,StoreE

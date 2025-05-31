@@ -1,3 +1,3 @@
 # data Folder
 
-This folder contains files related to data.
+Contains resources for the data section.
