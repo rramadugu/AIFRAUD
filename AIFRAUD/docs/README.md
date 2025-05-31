@@ -1,3 +1,3 @@
 # docs Folder
 
-This folder contains files related to docs.
+Contains resources for the docs section.
